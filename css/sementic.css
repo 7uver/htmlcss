@@ -1,7 +1,9 @@
 @import url('./all.min.css');
 
 /* 헤더 탑 */
-div.hdrTopWrap{}
+div.hdrTopWrap{
+    background-color: #333333;
+}
 div.hdrTopWrap>div.hdrTop{
     /* 가로 width : w tab */
     width: 80%;
@@ -21,7 +23,9 @@ div.hdrTopWrap>div.hdrTop>nav{
 div.hdrTopWrap>div.hdrTop>nav>h4{}
 
 /* 헤더 */
-div.hdrWrap{}
+div.hdrWrap{
+    background-color: #968A9D;
+}
 div.hdrWrap>header.hdr{
     width: 80%;
     max-width: 1080px;
@@ -96,7 +100,9 @@ div.cntWrap.wrap1>div.content.cnt1>section>div.artBtm>article>div.texts>div.icon
 /* 콘텐츠 2 */
 div.cntWrap.wrap2{}
 div.cntWrap.wrap2>div.content.cnt2{}
-div.cntWrap.wrap2>div.content.cnt2>header{}
+div.cntWrap.wrap2>div.content.cnt2>header{
+    background-color: #968A9D;
+}
 div.cntWrap.wrap2>div.content.cnt2>header>h2{}
 div.cntWrap.wrap2>div.content.cnt2>header>p{}
 div.cntWrap.wrap2>div.content.cnt2>section{}
@@ -130,7 +136,9 @@ div.cntWrap.wrap3>div.content.cnt3>section>article>div.texts>h3{}
 div.cntWrap.wrap3>div.content.cnt3>section>article>div.texts>p{}
 
 /* 푸터 */
-div.ftrWrap{}
+div.ftrWrap{
+    background-color: #968A9D;
+}
 div.ftrWrap>footer{
     width: 80%;
     max-width: 1080px;
