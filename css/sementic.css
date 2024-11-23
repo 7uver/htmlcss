@@ -10,6 +10,7 @@ div.hdrTopWrap>div.hdrTop{
     margin: 0 auto;
     /* df tab */
     display: flex;
+    justify-content: space-between;
 }
 div.hdrTopWrap>div.hdrTop>div.icons{}
 div.hdrTopWrap>div.hdrTop>div.icons>i{}
@@ -25,6 +26,7 @@ div.hdrWrap>header.hdr{
     max-width: 1080px;
     margin: 0 auto;
     display: flex;
+    justify-content: space-between;
 }
 div.hdrWrap>header.hdr>h1{}
 div.hdrWrap>header.hdr>nav{
