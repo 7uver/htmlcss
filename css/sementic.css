@@ -16,6 +16,7 @@ div.hdrTopWrap>div.hdrTop>div.icons{}
 div.hdrTopWrap>div.hdrTop>div.icons>i{}
 div.hdrTopWrap>div.hdrTop>nav{
     display: flex;
+    column-gap: ;
 }
 div.hdrTopWrap>div.hdrTop>nav>h4{}
 
@@ -64,8 +65,11 @@ div.cntWrap.wrap1>div.content.cnt1>header>p{}
 div.cntWrap.wrap1>div.content.cnt1>section{}
 div.cntWrap.wrap1>div.content.cnt1>section>div.artTop{
     display: flex;
+    column-gap: 20px;
 }
-div.cntWrap.wrap1>div.content.cnt1>section>div.artTop>article{}
+div.cntWrap.wrap1>div.content.cnt1>section>div.artTop>article{
+    background-color: mediumpurple;
+}
 div.cntWrap.wrap1>div.content.cnt1>section>div.artTop>article>div.image{}
 div.cntWrap.wrap1>div.content.cnt1>section>div.artTop>article>div.texts{}
 div.cntWrap.wrap1>div.content.cnt1>section>div.artTop>article>div.texts>h3{}
@@ -75,8 +79,12 @@ div.cntWrap.wrap1>div.content.cnt1>section>div.artTop>article>div.texts>div.icon
 div.cntWrap.wrap1>div.content.cnt1>section>div.artTop>article>div.texts>div.icons>i{}
 div.cntWrap.wrap1>div.content.cnt1>section>div.artBtm{
     display: flex;
+    column-gap: 20px;
 }
-div.cntWrap.wrap1>div.content.cnt1>section>div.artBtm>article{}
+div.cntWrap.wrap1>div.content.cnt1>section>div.artBtm>article{
+    /* bgc tab 컨트롤 + 스페이스*/
+    background-color: skyblue;
+}
 div.cntWrap.wrap1>div.content.cnt1>section>div.artBtm>article>div.image{}
 div.cntWrap.wrap1>div.content.cnt1>section>div.artBtm>article>div.texts{}
 div.cntWrap.wrap1>div.content.cnt1>section>div.artBtm>article>div.texts>h3{}
@@ -109,8 +117,11 @@ div.cntWrap.wrap3>div.content.cnt3>header>h2{}
 div.cntWrap.wrap3>div.content.cnt3>header>p{}
 div.cntWrap.wrap3>div.content.cnt3>section{
     display: flex;
+    column-gap: 20px;
 }
-div.cntWrap.wrap3>div.content.cnt3>section>article{}
+div.cntWrap.wrap3>div.content.cnt3>section>article{
+    background-color: lightcoral;
+}
 div.cntWrap.wrap3>div.content.cnt3>section>article>div.image{}
 div.cntWrap.wrap3>div.content.cnt3>section>article>div.texts{}
 div.cntWrap.wrap3>div.content.cnt3>section>article>div.texts>h3{}
