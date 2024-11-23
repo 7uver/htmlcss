@@ -102,6 +102,7 @@ div.cntWrap.wrap2>div.content.cnt2>header>p{}
 div.cntWrap.wrap2>div.content.cnt2>section{}
 div.cntWrap.wrap2>div.content.cnt2>section>article{
     display: flex;
+    background-color: aquamarine;
 }
 div.cntWrap.wrap2>div.content.cnt2>section>article>div.image{}
 div.cntWrap.wrap2>div.content.cnt2>section>article>div.texts{}
