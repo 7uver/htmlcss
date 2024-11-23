@@ -16,7 +16,7 @@ div.hdrTopWrap>div.hdrTop>div.icons{}
 div.hdrTopWrap>div.hdrTop>div.icons>i{}
 div.hdrTopWrap>div.hdrTop>nav{
     display: flex;
-    column-gap: ;
+    column-gap: 40px;
 }
 div.hdrTopWrap>div.hdrTop>nav>h4{}
 
@@ -32,6 +32,7 @@ div.hdrWrap>header.hdr{
 div.hdrWrap>header.hdr>h1{}
 div.hdrWrap>header.hdr>nav{
     display: flex;
+    column-gap: 50px;
 }
 div.hdrWrap>header.hdr>nav>h4{}
 div.hdrWrap>header.hdr>nav>h4>i{}
